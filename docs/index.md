@@ -19,7 +19,9 @@ This project aims to provide a flexible HaLow mesh radio using Raspberry Pi hard
 > Note: On SDIO-based HaLow builds, the onboard Wi‑Fi usually shares the SDIO bus and cannot be used. On SPI-based HaLow builds (for example Seeed boards), onboard Wi‑Fi works for client access (AP mode).
 
 ---
+
 ## Feature Matrix
+
 | Hardware    | Core Network | Comms | BLOS | New UI | Notes |
 |-------------|--------------|-------|------|--------|-------|
 | Pi4         | ✅           | ✅    | ✅   | ✅     |      |
